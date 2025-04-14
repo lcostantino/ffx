@@ -1,6 +1,7 @@
 {
   "name": "corporate-alert",
   "version": "0.0.0",
+  "homepage": "https://lcostantino.github.io/ffx",
   "private": true,
   "dependencies": {
     "@material-tailwind/react": "2.1.8",
@@ -35,6 +36,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "tailwindcss": "3.4.0"
   }
 }
